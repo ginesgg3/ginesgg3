@@ -1,1 +1,1 @@
-In this folder, you can see the tasks that I have done for this subject.
+In this folder, you can see some of the tasks that I have done for this subject.
