@@ -1,0 +1,1 @@
+In this subject I trained neural networks to solve molecular dynamics problems. In addition, I worked with the SIESTA program for Density Functional Theory (DFT) simulations and also did simulations of Hydrogen storage in graphene cells with Monte Carlo Metropolis.
